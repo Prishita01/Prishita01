@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prishita Ghanathe 👋
 
-<!--
-**Prishita01/Prishita01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | MS Computer Science @ Case Western Reserve University**
 
-Here are some ideas to get you started:
+🔍 Open to full-time Data Engineering and Analytics roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**Data Engineering:** Apache Spark, dbt, Airflow  
+**Cloud & Infrastructure:** AWS, GCP  
+**ML/AI:** PyTorch, TensorFlow, Computer Vision  
+**Tools:** Git, Docker, Linux/Unix
+
+## 🚀 Featured Projects
+- **[ReconStructAI3D](link)** - 3D reconstruction pipeline using SAM, COLMAP, and OpenMVS
+
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  
+📧 in/prishitagk
+
+---
+💼 Currently seeking Data Engineering and Data Analyst opportunities | Research Assistant @ CWRU
