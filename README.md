@@ -2,7 +2,7 @@
 
 **Data Engineer | MS Computer Science @ Case Western Reserve University**
 
-🔍 Open to full-time Data Engineering and Analytics roles
+🔍 Open to full-time Data Engineering and Machine Learning Engineer roles
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL  
@@ -20,4 +20,4 @@
 📧 in/prishitagk
 
 ---
-💼 Currently seeking Data Engineering and Data Analyst opportunities | Research Assistant @ CWRU
+💼 Currently seeking ML engineering opportunities | Research Assistant @ CWRU
