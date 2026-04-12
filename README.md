@@ -3,7 +3,7 @@
 ML Engineer | Computer Vision · LLM Systems · GPU-Accelerated Pipelines  
 MS Computer Science @ Case Western Reserve University (AI/ML)  
 Research Assistant @ CWRU HPC — NVIDIA H100 NVL & L40S  
-📍 Cleveland, OH | Open to full-time ML/CV/AI roles in the US (OPT)
+📍 Cleveland, OH | Open to full-time ML/CV/AI roles (OPT)
 
 ### What I build
 - End-to-end CV pipelines (SAM → COLMAP → OpenMVS → 3D mesh, PSNR 24dB)
