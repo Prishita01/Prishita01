@@ -1,23 +1,17 @@
-# Hi, I'm Prishita Ghanathe 👋
+## Hi, I'm Prishita 👋
 
-**Data Engineer | MS Computer Science @ Case Western Reserve University**
+ML Engineer | Computer Vision · LLM Systems · GPU-Accelerated Pipelines  
+MS Computer Science @ Case Western Reserve University (AI/ML)  
+Research Assistant @ CWRU HPC — NVIDIA H100 NVL & L40S  
+📍 Cleveland, OH | Open to full-time ML/CV/AI roles in the US (OPT)
 
-🔍 Open to full-time Data Engineering and Machine Learning Engineer roles
+### What I build
+- End-to-end CV pipelines (SAM → COLMAP → OpenMVS → 3D mesh, PSNR 24dB)
+- Custom Triton GPU kernels benchmarked across 50+ models on H100/L40S
+- RAG systems with hybrid retrieval and RAGAS evaluation
+- Distributed ML training pipelines (72.6× GPU speedup via DDP + SLURM)
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL  
-**Data Engineering:** Apache Spark, dbt, Airflow  
-**Cloud & Infrastructure:** AWS, GCP  
-**ML/AI:** PyTorch, TensorFlow, Computer Vision  
-**Tools:** Git, Docker, Linux/Unix
+### Tech
+Python · PyTorch · Triton · OpenCV · Docker · SLURM · SQL · LLM APIs
 
-## 🚀 Featured Projects
-- **[ReconStructAI3D](link)** - 3D reconstruction pipeline using SAM, COLMAP, and OpenMVS
-
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  
-📧 in/prishitagk
-
----
-💼 Currently seeking ML engineering opportunities | Research Assistant @ CWRU
+📫 prishita.ghanathe@gmail.com | [LinkedIn](https://linkedin.com/in/prishitagk)
